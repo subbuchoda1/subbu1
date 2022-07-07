@@ -2,7 +2,9 @@
 /* Basic Notations End */
 
 /* Html Start */
-
+*{
+  background: #41a5a0;
+}
 html {
   font-family: "Times new roman";
 }
@@ -21,7 +23,7 @@ html {
   margin: 23px ; 
   font-size: 30px;
   font-style: italic;
-  color: green;
+  color: white;
   font-size: 30px;
   
   padding: 10px;
@@ -36,8 +38,9 @@ html {
 }
 
 .menu > ul > li {
-  background:  black;
-  color: white;
+  background:  white;
+  
+  color: black;
   padding: 9px;
   list-style-type: none;
   margin: 5px;
