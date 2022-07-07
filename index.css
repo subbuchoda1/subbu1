@@ -1,0 +1,65 @@
+
+/* Basic Notations End */
+
+/* Html Start */
+
+html {
+  font-family: "Times new roman";
+}
+
+
+.subbu ul {
+  
+}
+.subbu li{
+  display: inline-block;
+  
+}
+.subbu li a{
+  text-decoration: none;
+  list-style-type: none;
+  margin: 23px ; 
+  font-size: 30px;
+  font-style: italic;
+  color: green;
+  font-size: 30px;
+  
+  padding: 10px;
+  
+  
+}
+.subbu li a:hover{
+  color: #cc00ff;
+}
+.menu > ul {
+   
+}
+
+.menu > ul > li {
+  background:  black;
+  color: white;
+  padding: 9px;
+  list-style-type: none;
+  margin: 5px;
+  text-align:center;
+  border-radius: 10px;
+  text-decoration: none;
+
+ }
+.menu > ul > li:hover{
+  color:  black;
+  background: greenyellow;
+}
+.sai{
+
+  text-align: center;
+}
+/* Menu end */
+
+
+/* Aside Part End */
+
+
+
+
+/
